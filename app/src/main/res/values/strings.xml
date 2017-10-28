@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyWeeklyFood</string>
+    <string name="Monday">Monday</string>
 </resources>
